@@ -9,3 +9,6 @@ Los Paradise Papers
 <div>
 <iframe id="datawrapper-chart-OPnnn" src="//datawrapper.dwcdn.net/OPnnn/1/" scrolling="no" frameborder="0" allowtransparency="true" style="width: 0; min-width: 100% !important;" height="400"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["OPnnn"]={},window.datawrapper["OPnnn"].embedDeltas={"100":525,"200":450,"300":425,"400":425,"500":400,"700":400,"800":400,"900":400,"1000":400},window.datawrapper["OPnnn"].iframe=document.getElementById("datawrapper-chart-OPnnn"),window.datawrapper["OPnnn"].iframe.style.height=window.datawrapper["OPnnn"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["OPnnn"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("OPnnn"==b)window.datawrapper["OPnnn"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
  </div>
+<div>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSqFdFZMqfKngR_bAMMdA_wZQAvHqh3qUhoqfZpUj3ofsxFIPCftSydfcre89sHvLjk9vxOQyPDd2Wx/pubchart?oid=1545095820&amp;format=interactive"></iframe>
+</div>
